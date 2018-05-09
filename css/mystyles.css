@@ -1,0 +1,54 @@
+/* my styles*/
+
+
+
+body
+{font-family: 'Righteous';
+color: white;
+text-align: center;
+background-color: #010b4c;
+background-image: url(none);}
+/*background-repeat: none;
+background-size: cover;}*/
+
+.arrowButton:
+hover{
+	width: 75px;
+	margin-top: 125%
+	opacity: 0.75;
+}
+
+#imagebox
+{
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navButton{
+	width: 15%;
+	float: right;
+	
+
+}
+
+#picWindow 
+{
+	width: 70%;
+	float: right;
+}
+
+.buttonPic{
+	width: 75px;
+	margin-top: 125%;
+}
+/*
+#right
+{width: 15%;
+float: right;
+size: 50%;}
+
+#left
+{width: 15%;
+float: left;}
+*/
